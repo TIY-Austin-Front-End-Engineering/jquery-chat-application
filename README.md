@@ -20,6 +20,8 @@ After completing this assignment, you be able to effectively use
 
 * $.get
 * $.post
+* setInterval
+* $.html / $.append
 
 
 
