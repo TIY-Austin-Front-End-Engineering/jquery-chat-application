@@ -1,0 +1,17 @@
+{
+    "name": "jquery-chat-application",
+    "version": "0.0.1",
+    "title": "jQuery Chat Application",
+    "description": "You will be using everything you've learned thus far to create a web based chat application similar to slack.",
+    "difficultyModes": [
+        "Normal",
+        "Hard",
+        "Nightmare"
+    ],
+    "keywords": [
+        "AJAX",
+        "JavaScript",
+        "chat",
+        "jQuery"
+    ]
+}
