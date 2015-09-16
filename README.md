@@ -64,7 +64,8 @@ Go as far as you want with these:
 
 ## Notes
 
-You might want to look into [moment.js](http://momentjs.com/) for handling dates and times.
+* You will need to use Tiny Pizza Server to store your data: http://tiyfe.herokuapp.com/collections/yournamehere
+* You might want to look into [moment.js](http://momentjs.com/) for handling dates and times.
 
 ## Additional Resources
 
